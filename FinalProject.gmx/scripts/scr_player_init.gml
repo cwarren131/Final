@@ -1,1 +1,1 @@
-move_snap(32,32)
+global.door = 1;

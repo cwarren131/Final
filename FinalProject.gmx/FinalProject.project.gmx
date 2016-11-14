@@ -24,6 +24,8 @@
   <scripts name="scripts">
     <script>scripts\scr_chad_move.gml</script>
     <script>scripts\scr_chad_init.gml</script>
+    <script>scripts\scr_hallway_spawn.gml</script>
+    <script>scripts\scr_player_init.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_wall</object>
@@ -36,6 +38,13 @@
     <object>objects\obj_bookshelf</object>
     <object>objects\obj_winerack</object>
     <object>objects\obj_storageshelf</object>
+    <object>objects\obj_Exit</object>
+    <object>objects\obj_Enter</object>
+    <object>objects\obj_enter_D</object>
+    <object>objects\obj_enter_A</object>
+    <object>objects\obj_enter_B</object>
+    <object>objects\obj_enter_C</object>
+    <object>objects\obj_hallway_spawner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\LivingRoon_A_</room>
