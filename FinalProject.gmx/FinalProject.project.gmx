@@ -6,8 +6,6 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_chairLeft</sprite>
-    <sprite>sprites\spr_chair_right</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_chad</sprite>
     <sprite>sprites\sprite5</sprite>
@@ -17,13 +15,12 @@
     <sprite>sprites\spr_bookshelf</sprite>
     <sprite>sprites\spr_winerack</sprite>
     <sprite>sprites\spr_storageshelf</sprite>
-<<<<<<< HEAD
-    <sprite>sprites\spr_table</sprite>
-    <sprite>sprites\spr_bed</sprite>
-    <sprite>sprites\spr_cupboard</sprite>
-=======
     <sprite>sprites\sprite9</sprite>
->>>>>>> refs/remotes/origin/Chris
+    <sprite>sprites\sprite10</sprite>
+    <sprite>sprites\spr_chairleft</sprite>
+    <sprite>sprites\spr_chairright</sprite>
+    <sprite>sprites\spr_bed</sprite>
+    <sprite>sprites\spr_table</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Floor</background>
@@ -41,17 +38,6 @@
     <object>objects\obj_chad</object>
     <object>objects\obj_player</object>
     <object>objects\obj_box</object>
-<<<<<<< HEAD
-    <object>objects\obj_cupboard</object>
-    <object>objects\obj_bed</object>
-    <object>objects\obj_table</object>
-    <object>objects\obj_chest</object>
-    <object>objects\obj_bookshelf</object>
-    <object>objects\obj_winerack</object>
-    <object>objects\obj_storageshelf</object>
-    <object>objects\obj_leftchair</object>
-    <object>objects\obj_chairRight</object>
-=======
     <object>objects\obj_chest</object>
     <object>objects\obj_barrel</object>
     <object>objects\obj_bookshelf</object>
@@ -64,10 +50,10 @@
     <object>objects\obj_enter_B</object>
     <object>objects\obj_enter_C</object>
     <object>objects\obj_hallway_spawner</object>
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/Chris
-=======
->>>>>>> refs/remotes/origin/master
+    <object>objects\obj_table</object>
+    <object>objects\obj_bed</object>
+    <object>objects\obj_chairleft</object>
+    <object>objects\obj_chairright</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\LivingRoon_A_</room>
