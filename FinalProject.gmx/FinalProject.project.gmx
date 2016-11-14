@@ -26,9 +26,13 @@
     <object>objects\obj_enter_B</object>
     <object>objects\obj_enter_C</object>
     <object>objects\obj_hallway_spawner</object>
+<<<<<<< HEAD
     <object>objects\obj_table</object>
     <object>objects\obj_bed</object>
     <object>objects\obj_chairright</object>
+=======
+>>>>>>> refs/remotes/origin/Chris
+>>>>>>> refs/remotes/origin/master
   </objects>
   <rooms name="rooms"/>
   <help>
