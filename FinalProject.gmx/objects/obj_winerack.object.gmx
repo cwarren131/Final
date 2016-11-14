@@ -5,7 +5,11 @@
   <visible>-1</visible>
   <depth>0</depth>
   <persistent>0</persistent>
+<<<<<<< HEAD
+  <parentName>obj_wall</parentName>
+=======
   <parentName>&lt;undefined&gt;</parentName>
+>>>>>>> refs/remotes/origin/Chris
   <maskName>&lt;undefined&gt;</maskName>
   <events/>
   <PhysicsObject>0</PhysicsObject>

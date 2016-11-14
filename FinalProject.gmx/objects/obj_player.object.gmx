@@ -8,6 +8,8 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
+<<<<<<< HEAD
+=======
     <event eventtype="4" ename="obj_enter_D">
       <action>
         <libid>1</libid>
@@ -464,6 +466,7 @@
         </arguments>
       </action>
     </event>
+>>>>>>> refs/remotes/origin/Chris
     <event eventtype="5" enumb="40">
       <action>
         <libid>1</libid>
