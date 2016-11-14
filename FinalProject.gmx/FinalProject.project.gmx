@@ -17,9 +17,13 @@
     <sprite>sprites\spr_bookshelf</sprite>
     <sprite>sprites\spr_winerack</sprite>
     <sprite>sprites\spr_storageshelf</sprite>
+<<<<<<< HEAD
     <sprite>sprites\spr_table</sprite>
     <sprite>sprites\spr_bed</sprite>
     <sprite>sprites\spr_cupboard</sprite>
+=======
+    <sprite>sprites\sprite9</sprite>
+>>>>>>> refs/remotes/origin/Chris
   </sprites>
   <backgrounds name="background">
     <background>background\Floor</background>
@@ -28,6 +32,8 @@
   <scripts name="scripts">
     <script>scripts\scr_chad_move.gml</script>
     <script>scripts\scr_chad_init.gml</script>
+    <script>scripts\scr_hallway_spawn.gml</script>
+    <script>scripts\scr_player_init.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_wall</object>
@@ -35,6 +41,7 @@
     <object>objects\obj_chad</object>
     <object>objects\obj_player</object>
     <object>objects\obj_box</object>
+<<<<<<< HEAD
     <object>objects\obj_cupboard</object>
     <object>objects\obj_bed</object>
     <object>objects\obj_table</object>
@@ -44,6 +51,20 @@
     <object>objects\obj_storageshelf</object>
     <object>objects\obj_leftchair</object>
     <object>objects\obj_chairRight</object>
+=======
+    <object>objects\obj_chest</object>
+    <object>objects\obj_barrel</object>
+    <object>objects\obj_bookshelf</object>
+    <object>objects\obj_winerack</object>
+    <object>objects\obj_storageshelf</object>
+    <object>objects\obj_Exit</object>
+    <object>objects\obj_Enter</object>
+    <object>objects\obj_enter_D</object>
+    <object>objects\obj_enter_A</object>
+    <object>objects\obj_enter_B</object>
+    <object>objects\obj_enter_C</object>
+    <object>objects\obj_hallway_spawner</object>
+>>>>>>> refs/remotes/origin/Chris
   </objects>
   <rooms name="rooms">
     <room>rooms\LivingRoon_A_</room>
