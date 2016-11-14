@@ -6,43 +6,19 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_wall</sprite>
-    <sprite>sprites\spr_chad</sprite>
-    <sprite>sprites\sprite5</sprite>
-    <sprite>sprites\spr_box</sprite>
-    <sprite>sprites\spr_chest</sprite>
-    <sprite>sprites\spr_barrel</sprite>
-    <sprite>sprites\spr_bookshelf</sprite>
-    <sprite>sprites\spr_winerack</sprite>
-    <sprite>sprites\spr_storageshelf</sprite>
-    <sprite>sprites\sprite9</sprite>
-    <sprite>sprites\sprite10</sprite>
     <sprite>sprites\spr_chairleft</sprite>
-    <sprite>sprites\spr_chairright</sprite>
     <sprite>sprites\spr_bed</sprite>
     <sprite>sprites\spr_table</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\Floor</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\scr_chad_move.gml</script>
-    <script>scripts\scr_chad_init.gml</script>
+    <script>scripts\&lt;undefined&gt;.gml</script>
+    <script>scripts\&lt;undefined&gt;.gml</script>
     <script>scripts\scr_hallway_spawn.gml</script>
     <script>scripts\scr_player_init.gml</script>
   </scripts>
   <objects name="objects">
-    <object>objects\obj_wall</object>
-    <object>objects\obj_controller</object>
-    <object>objects\obj_chad</object>
-    <object>objects\obj_player</object>
-    <object>objects\obj_box</object>
-    <object>objects\obj_chest</object>
-    <object>objects\obj_barrel</object>
-    <object>objects\obj_bookshelf</object>
-    <object>objects\obj_winerack</object>
-    <object>objects\obj_storageshelf</object>
     <object>objects\obj_Exit</object>
     <object>objects\obj_Enter</object>
     <object>objects\obj_enter_D</object>
@@ -52,17 +28,9 @@
     <object>objects\obj_hallway_spawner</object>
     <object>objects\obj_table</object>
     <object>objects\obj_bed</object>
-    <object>objects\obj_chairleft</object>
     <object>objects\obj_chairright</object>
   </objects>
-  <rooms name="rooms">
-    <room>rooms\LivingRoon_A_</room>
-    <room>rooms\Study_B_</room>
-    <room>rooms\Bedroom_D_</room>
-    <room>rooms\Kitchen_C_</room>
-    <room>rooms\Hallway</room>
-    <room>rooms\DiningRoom_Boss_</room>
-  </rooms>
+  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
