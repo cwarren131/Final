@@ -64,7 +64,10 @@
     <object>objects\obj_enter_B</object>
     <object>objects\obj_enter_C</object>
     <object>objects\obj_hallway_spawner</object>
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/Chris
+=======
+>>>>>>> refs/remotes/origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\LivingRoon_A_</room>

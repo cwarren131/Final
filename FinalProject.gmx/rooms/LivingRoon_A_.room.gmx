@@ -197,7 +197,10 @@
     <instance objName="obj_box" x="576" y="128" name="inst_676519FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Exit" x="608" y="224" name="inst_6FED91CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Exit" x="608" y="256" name="inst_45ED51BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/Chris
+=======
+>>>>>>> refs/remotes/origin/master
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
