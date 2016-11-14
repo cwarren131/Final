@@ -5,11 +5,32 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_chad</sprite>
+    <sprite>sprites\sprite5</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\Floor</background>
+  </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_chad_move.gml</script>
+    <script>scripts\scr_chad_init.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\obj_wall</object>
+    <object>objects\obj_controller</object>
+    <object>objects\obj_chad</object>
+    <object>objects\obj_player</object>
+  </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\LivingRoon_A_</room>
+    <room>rooms\Study_B_</room>
+    <room>rooms\Bedroom_D_</room>
+    <room>rooms\Kitchen_C_</room>
+    <room>rooms\Hallway</room>
+    <room>rooms\DiningRoom_Boss_</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
